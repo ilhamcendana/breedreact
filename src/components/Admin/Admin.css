@@ -1,0 +1,49 @@
+.adminBG{
+    
+}
+.form{
+    width:50%;
+    color:#fff;
+    border:2px solid #fff;
+    padding:30px;
+}
+.tab{
+    color:#fff;
+}
+.tab:hover{
+    color:lightblue;
+    border:none;
+}
+.buatartikel{
+    width: 100%;    
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+.frameBA{    
+    width:80%;
+    margin-top: 50px;
+}
+.frameBA label{
+    color: #fff;
+    background: rgb(53, 75, 78);
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.frameBA .buatBtn{
+    color: #fff;
+    background: rgb(53, 75, 78);
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100px;
+    border:none;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    transition: .2s;
+}
+.frameBA .buatBtn:hover{
+    transform: scale(.9);
+}
