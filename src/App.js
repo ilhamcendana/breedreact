@@ -61,6 +61,7 @@ function App() {
                   <Route exact path='/masalah' component={Masalah} />
                   <Route exact path='/admin' component={Admin} />
 
+
                   <div style={{
                     marginTop: 100
                   }}>
